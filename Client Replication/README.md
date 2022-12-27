@@ -1,0 +1,2 @@
+# Client Replication
+This was a project to produce replicating a character on every client instead of the server. The goal was to make a secure way to generate beautiful character effects without the delay of waiting for the server having to produce the effects. 
